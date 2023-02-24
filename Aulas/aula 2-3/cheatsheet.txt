@@ -1,0 +1,7 @@
+#Comandos no terminal 
+
+top -> overview do monstrão
+    - t -> mostra barra
+    - q -> sair
+
+
