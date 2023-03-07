@@ -27,7 +27,7 @@ int main() {
     fill_n(&a[0][0], M*N, 1.0 / (M*N));
     cout << naive_sum(a) << endl;
     static double b[M][N];
-    fill_n(&b[0][0], M*N, 1.0 / (M*N));x'
+    fill_n(&b[0][0], M*N, 1.0 / (M*N));
     cout << improved_sum(b) << endl;
     return 0;
 }
